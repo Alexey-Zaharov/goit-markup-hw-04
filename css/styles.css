@@ -359,30 +359,6 @@ ul {
   gap: 30px;
 }
 
-/* .clients-item {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 170px;
-  height: 92px;
-  border: 1px solid var(--link-color);
-  border-radius: 4px;
-  cursor: pointer;
-}
-.clients-item:focus,
-.clients-item:hover {
-  border-color: var(--accent-color);
-}
-
-.clients-link {
-  display: flex;
-  fill: var(--link-color);
-}
-
-.clients-item:focus .clients-link,
-.clients-item:hover .clients-link {
-  fill: var(--accent-color);
-} */
 
 .clients-item {
   display: flex;
